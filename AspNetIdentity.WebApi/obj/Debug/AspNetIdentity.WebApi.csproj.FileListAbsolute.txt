@@ -1,0 +1,245 @@
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\csc.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\csc.exe.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\csc.rsp
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\csi.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\csi.rsp
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\vbc.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\vbc.rsp
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.dll.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Dal.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Domain.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\EntityFramework.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Owin.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SimpleInjector.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Cors.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Dal.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Domain.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\EntityFramework.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SimpleInjector.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csc.exe.config
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csc.rsp
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csi.rsp
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\vbc.rsp
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csc.exe
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csi.exe
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\vbc.exe
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.dll.config
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Dal.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Domain.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Owin.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Cors.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Dal.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Domain.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Mapper.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Model.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.Utility.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Mapper.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Model.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.Utility.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SendGrid.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csc.exe
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csc.exe.config
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csc.rsp
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csi.exe
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\csi.rsp
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\vbc.exe
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\vbc.rsp
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.dll.config
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Dal.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Domain.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Mapper.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Model.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.Utility.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Owin.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Cors.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SendGrid.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Dal.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Domain.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Mapper.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.Model.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\AspNetIdentity.WebApi.Utility.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\obj\Debug\AspNetIdentity.WebApi.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.WebApi\bin\Thinktecture.IdentityModel.Core.pdb

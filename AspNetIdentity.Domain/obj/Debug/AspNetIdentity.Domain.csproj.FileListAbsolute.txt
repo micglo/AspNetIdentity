@@ -1,0 +1,42 @@
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.dll.config
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.pdb
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.csprojResolveAssemblyReference.cache
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.csprojResolveAssemblyReference.cache
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.dll.config
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.dll.config
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\AspNetIdentity.Domain.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Domain\obj\Debug\AspNetIdentity.Domain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,55 @@
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.dll.config
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.pdb
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Domain.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Domain.pdb
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.csprojResolveAssemblyReference.cache
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.dll
+c:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.Migrations.create.resources
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\AspNetIdentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.csproj.GenerateResource.Cache
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.Migrations.create.resources
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.csproj.GenerateResource.Cache
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.dll.config
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Domain.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Domain.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.csprojResolveAssemblyReference.cache
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.dll
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.pdb
+C:\Users\michal.glowaczewski\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.Migrations.UserIsActive.resources
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.dll.config
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Dal.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Domain.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\AspNetIdentity.Domain.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.dll
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.pdb
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.Migrations.Initial.resources
+C:\Users\Michal\Documents\Projekty\aspnetidentity\AspNetIdentity.Dal\obj\Debug\AspNetIdentity.Dal.csproj.GenerateResource.Cache
