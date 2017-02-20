@@ -1,2 +1,0 @@
-WebService Asp.Net WebApi2 z implementacja frameworka Asp.Net Identity przy użyciu EntityFrameworka. Autoryzacja za pomocą tokena JWT.
-Jako IoC wykorzystano SimpleInjector'a.

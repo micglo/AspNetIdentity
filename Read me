@@ -1,0 +1,10 @@
+WebService Asp.Net WebApi2 z implementacja frameworka Asp.Net Identity przy użyciu EntityFrameworka. Autoryzacja za pomocą tokena JWT.
+Jako IoC wykorzystano SimpleInjector'a.
+
+-Zarządzanie użytkownikami(CRUD)
+-Zarządzanie rolami(CRUD)
+-Zarządzanie clam'ami(CRUD)
+-Przypisanywanie clam'ów i ról dla użytkowników
+-Odbieranie uprawnień użytkownikom
+-Autentykacja za pomoca JWT
+-Autoryzacja uzytkowników
